@@ -1,0 +1,203 @@
+body {
+  text-align: center;
+  background-color: #304e50;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.a {
+    
+    background-image: url("images/a.png");
+    background-size: 5rem;
+}
+
+.b {
+  background-image: url("images/b.png");
+  background-size: 5.4rem;
+}
+
+.c {
+  background-image: url("images/c.png");
+  background-size: 5.4rem;
+}
+
+.d {
+  background-image: url("images/d.png");
+  background-size: 5.5rem;
+}
+
+.e {
+background-image: url("images/e.png");
+background-size: 5rem;
+}
+
+.f {
+  background-image: url("images/f.png");
+  background-size: 5rem;
+}
+
+.g {
+  background-image: url("images/g.png");
+  background-size: 5rem;
+}
+
+.h {
+  background-image: url("images/h.png");
+  background-size: 5rem;
+}
+
+.i {
+  background-image: url("images/i.png");
+  background-size: 5rem;
+}
+
+.j {
+  background-image: url("images/j.png");
+  background-size: 5rem;
+}
+
+.k {
+  background-image: url("images/k.png");
+  background-size: 5rem;
+}
+
+.l {
+  background-image: url("images/l.png");
+  background-size: 5rem;
+}
+
+
+.m {
+  background-image: url("images/m.png");
+  background-size: 5rem;
+}
+
+.n {
+  background-image: url("images/n.png");
+  background-size: 5rem;
+}
+
+
+.o {
+  background-image: url("images/o.png");
+  background-size: 5rem;
+}
+
+
+.p {
+  background-image: url("images/p.png");
+  background-size: 5rem;
+}
+
+.q {
+  background-image: url("images/q.png");
+  background-size: 5rem;
+}
+
+
+.r {
+  background-image: url("images/r.png");
+  background-size: 5rem;
+}
+
+
+.s {
+  background-image: url("images/s.png");
+  background-size: 5rem;
+}
+
+.t {
+  background-image: url("images/t.png");
+  background-size: 5rem;
+}
+
+.u {
+  background-image: url("images/u.png");
+  background-size: 5rem;
+}
+
+.v {
+  background-image: url("images/v.png");
+  background-size: 5rem;
+}
+
+.w {
+  background-image: url("images/w.png");
+  background-size: 5rem;
+}
+
+.x {
+  background-image: url("images/x.png");
+  background-size: 5rem;
+}
+
+.y {
+  background-image: url("images/y.png");
+  background-size: 5rem;
+}
+
+.z {
+  background-image: url("images/z.png");
+  background-size: 5rem;
+}
+
+.set {
+  margin: 10% auto;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.coline{
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+.pradeep{
+  float: right;
+  width: 200px;
+  height: 200px;
+}
